@@ -1,8 +1,6 @@
 # # dependencies
 node_modules
-.env
-package.json
-routes
+
 # /.pnp
 # .pnp.js
 
